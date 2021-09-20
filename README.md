@@ -1,7 +1,7 @@
 # Matlab code for Res_ELM
 Residual based Extreme Learning Machine
 
-Journal paper with title: "Multimodal Sparse Classifier for Adolescent Brain Age Prediction"
+This Matlab code is related to the paper "Multimodal Sparse Classifier for Adolescent Brain Age Prediction"
 
 Author(s)
 Peyman Hosseinzadeh Kassani ; Alexej Gossmann ; Yu-Ping Wang
