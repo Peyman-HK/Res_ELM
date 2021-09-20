@@ -15,3 +15,5 @@ https://ieeexplore.ieee.org/document/8750866
 
 
 You should Main_RES_ELM.m to get results on WBCD data (wbcd.mat). Residual based sparse classifier takes advantage of the residuals of an extreme learning machine and rank neuouns that can be used to remove or sparsify the data. 
+
+For the sake of comparision with traditional ELM, you run trad_ELM.m. 
