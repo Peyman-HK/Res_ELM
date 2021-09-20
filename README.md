@@ -9,8 +9,7 @@ Published in: IEEE Journal of Biomedical and Health Informatics, June 2019, DOI:
 https://ieeexplore.ieee.org/document/8750866
 
 
-![main flow](/../tree/master/images/Res_ELM Flowchart.jpg?raw=true "Residual based ELM pipeline")
-https://github.com/Peyman-HK/Res_ELM/tree/master/images
+![main flow](/../master/images/Res_ELM%20Flowchart.jpg?raw=true "Residual based ELM pipeline")
 
 You run Main_RES_ELM.m to get results on WBCD data (wbcd.mat). Residual based sparse classifier takes advantage of the residuals of an extreme learning machine (ELM) and rank neuouns that can be used to remove or sparsify the data. 
 
